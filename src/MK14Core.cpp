@@ -76,8 +76,8 @@ void ResetCPU(void) {
 #define CM(n) ((n) ^ 0xFF) /* 1's complement */
 
 void Execute(int Count) {
-  register int Opcode;
-  register int Pointer;
+  int Opcode;
+  int Pointer;
   int n, tmp;
   long l;
 
