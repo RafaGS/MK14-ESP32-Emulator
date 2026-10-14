@@ -4,9 +4,11 @@
 
 ## English Version
 
-More information at [Minibots](https://minibots.wordpress.com).
+More information at [Minibots](https://minibots.wordpress.com/2026/10/14/emulador-de-science-of-cambridge-mk14-con-esp32/).
 
 This project is a lightweight emulator of the **Science of Cambridge MK14 microcomputer**, based on the **National Semiconductor SC/MP II (INS8060) processor**, adapted to run on an ESP32 microcontroller using the Arduino framework.
+
+<img title="" src="./images/main.png" alt="" data-align="center">
 
 The emulator reproduces the processor's execution, memory mapping, keyboard input, and seven-segment display behavior. It includes a browser-based interface for interacting with the emulated machine and loading programs in Intel HEX format.
 
@@ -78,7 +80,7 @@ The GPL-2.0 license applies to this project as a whole, subject to the applicabl
 
 ## Versión en Español
 
-Más información en [Minibots](https://minibots.wordpress.com).
+Más información en [Minibots](https://minibots.wordpress.com/2026/10/14/emulador-de-science-of-cambridge-mk14-con-esp32/).
 
 Este proyecto es un emulador ligero del **microordenador MK14 de Science of Cambridge**, basado en el **procesador SC/MP II (INS8060) de National Semiconductor**, adaptado para ejecutarse en un microcontrolador ESP32 mediante el entorno Arduino.
 
